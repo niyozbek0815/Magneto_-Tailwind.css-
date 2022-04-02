@@ -38,7 +38,7 @@ $(document).ready(function() {
             $("#icon2").addClass("fa-arrow-down");
         }
         a = a + 1;
-        kdk
+
     });
 
 
